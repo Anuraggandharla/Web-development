@@ -3,8 +3,7 @@
 Welcome to the E-Commerce Web Development project! This project aims to create a robust and scalable e-commerce platform with modern features and a user-friendly interface.
 
 #Features
-Product browsing and search functionality
-User authentication and authorization
+Displays the various product that are available.
 Product reviews and ratings
 Responsive design for various devices
 
